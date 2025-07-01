@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "733403378361",
+    "project_id": "cebamer2",
+    "storage_bucket": "cebamer2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733403378361:android:81dacf34240fee9fa72168",
+        "android_client_info": {
+          "package_name": "com.cebamer.bana.cebamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733403378361-5sbqfkgghukm23pnkf435iuktsgls98b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhwwJakGRi69HYivwSmNimVyJjUWIHss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733403378361-5sbqfkgghukm23pnkf435iuktsgls98b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733403378361-n9kdv2gaevs15vl26e4pub2a7upkvag8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cebamer.bana.cebamer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
